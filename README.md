@@ -9,7 +9,7 @@ An AI-powered HR chatbot built with **Qwen3-32B (Groq)** and the **Model Context
 In mid-to-large organizations, employees and HR teams face several persistent hurdles:
 * **Information Overload:** Employees waste time searching through lengthy policy documents for simple answers.
 * **HR Fatigue:** HR teams spend significant effort answering the same repetitive queries about leave and onboarding weekly.
-* [cite_start]**Onboarding Confusion:** New joiners often miss critical steps because they lack guided, context-aware assistance.
+* **Onboarding Confusion:** New joiners often miss critical steps because they lack guided, context-aware assistance.
 * **Data Fragmentation:** Leave balances and employee records are often scattered, making quick checks difficult.
 
 This project centralizes these processes into a **24/7 intelligent system** that fetches data live at runtime.
@@ -29,7 +29,6 @@ This project centralizes these processes into a **24/7 intelligent system** that
 ##  Architecture & Workflow
 
 The system operates on a clean three-layer architecture: **Streamlit (Frontend)**, **Groq/Qwen3 (Intelligence)**, and **Filesystem MCP (Data Bridge)**.
-
 
 
 ### End-to-End Flow:
