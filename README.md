@@ -52,7 +52,7 @@ The system operates on a clean three-layer architecture: **Streamlit (Frontend)*
 
 ## 📁 Data Files
 
-The `/data` folder serves as the single source of truth for the assistant[cite: 62]:
+The `/data` folder serves as the single source of truth for the assistant:
 
 * **`leave_policy.txt`**: A comprehensive guide containing leave types (Casual, Sick, Earned), carry-forward rules, and the standard application process.
 * **`onboarding_checklist.txt`**: A structured task list categorized by timeline (Day 1/Week 1) and experience level (Fresher/Experienced).
