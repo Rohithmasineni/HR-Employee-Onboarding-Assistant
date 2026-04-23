@@ -4,10 +4,10 @@ An AI-powered HR chatbot built with **Qwen3-32B (Groq)** and the **Model Context
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 In mid-to-large organizations, employees and HR teams face several persistent hurdles:
-* [cite_start]**Information Overload:** Employees waste time searching through lengthy policy documents for simple answers[cite: 11, 17].
+* **Information Overload:** Employees waste time searching through lengthy policy documents for simple answers[cite: 11, 17].
 * [cite_start]**HR Fatigue:** HR teams spend significant effort answering the same repetitive queries about leave and onboarding weekly[cite: 13, 18].
 * [cite_start]**Onboarding Confusion:** New joiners often miss critical steps because they lack guided, context-aware assistance[cite: 15, 21].
 * [cite_start]**Data Fragmentation:** Leave balances and employee records are often scattered, making quick checks difficult[cite: 20].
