@@ -7,35 +7,35 @@ An AI-powered HR chatbot built with **Qwen3-32B (Groq)** and the **Model Context
 ## Problem Statement
 
 In mid-to-large organizations, employees and HR teams face several persistent hurdles:
-* **Information Overload:** Employees waste time searching through lengthy policy documents for simple answers[cite: 11, 17].
-* [cite_start]**HR Fatigue:** HR teams spend significant effort answering the same repetitive queries about leave and onboarding weekly[cite: 13, 18].
-* [cite_start]**Onboarding Confusion:** New joiners often miss critical steps because they lack guided, context-aware assistance[cite: 15, 21].
-* [cite_start]**Data Fragmentation:** Leave balances and employee records are often scattered, making quick checks difficult[cite: 20].
+* **Information Overload:** Employees waste time searching through lengthy policy documents for simple answers.
+* **HR Fatigue:** HR teams spend significant effort answering the same repetitive queries about leave and onboarding weekly.
+* [cite_start]**Onboarding Confusion:** New joiners often miss critical steps because they lack guided, context-aware assistance.
+* **Data Fragmentation:** Leave balances and employee records are often scattered, making quick checks difficult.
 
-[cite_start]This project centralizes these processes into a **24/7 intelligent system** that fetches data live at runtime[cite: 19, 26].
-
----
-
-## ✨ Features
-
-* [cite_start]**📋 Policy Q&A:** Instant answers regarding leave types, rules, application processes, and probation limits[cite: 26, 44].
-* [cite_start]**📊 Real-Time Leave Balance:** Fetches live yearly remaining balances and monthly usage breakdowns[cite: 27].
-* [cite_start]**🗓️ Context-Aware Onboarding:** Tailored guidance for "Day 1" through "Week 2" with specific tracks for **Freshers** vs. **Experienced** hires[cite: 25, 44].
-* [cite_start]**👤 Employee Profile:** Quick access to reporting manager details, department, designation, and leave history[cite: 56].
-* [cite_start]**🔌 Pure MCP Architecture:** The LLM does not have documents pre-loaded; it must actively invoke tools to "see" data[cite: 47, 52].
+This project centralizes these processes into a **24/7 intelligent system** that fetches data live at runtime.
 
 ---
 
-## 🏗️ Architecture & Workflow
+## Features
 
-[cite_start]The system operates on a clean three-layer architecture: **Streamlit (Frontend)**, **Groq/Qwen3 (Intelligence)**, and **Filesystem MCP (Data Bridge)**[cite: 32, 76].
+* **Policy Q&A:** Instant answers regarding leave types, rules, application processes, and probation limits.
+* **Real-Time Leave Balance:** Fetches live yearly remaining balances and monthly usage breakdowns.
+* **Context-Aware Onboarding:** Tailored guidance for "Day 1" through "Week 2" with specific tracks for **Freshers** vs. **Experienced** hires.
+* **Employee Profile:** Quick access to reporting manager details, department, designation, and leave history.
+* **Pure MCP Architecture:** The LLM does not have documents pre-loaded; it must actively invoke tools to "see" data.
+
+---
+
+##  Architecture & Workflow
+
+The system operates on a clean three-layer architecture: **Streamlit (Frontend)**, **Groq/Qwen3 (Intelligence)**, and **Filesystem MCP (Data Bridge)**.
 
 
 
 ### End-to-End Flow:
-1. [cite_start]**User Input:** Employee asks a question (e.g., "What is the leave policy?")[cite: 48].
-2. **LLM Decision:** Groq (Qwen3-32B) receives the query + tool definitions. [cite_start]It realizes it lacks the data and generates a `tool_use` block[cite: 48].
-3. [cite_start]**MCP Interception:** The app routes this request to the `mcp_handler.py`[cite: 51].
+1. **User Input:** Employee asks a question (e.g., "What is the leave policy?").
+2. **LLM Decision:** Groq (Qwen3-32B) receives the query + tool definitions. It realizes it lacks the data and generates a `tool_use` block.
+3. **MCP Interception:** The app routes this request to the `mcp_handler.py`[cite: 51].
 4. [cite_start]**Data Retrieval:** The MCP server reads the relevant file from the `/data` directory[cite: 51].
 5. [cite_start]**Final Generation:** The model receives the file content, processes the natural language, and returns the final answer[cite: 51].
 
