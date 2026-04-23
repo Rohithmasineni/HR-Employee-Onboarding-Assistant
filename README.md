@@ -16,6 +16,13 @@ This project centralizes these processes into a **24/7 intelligent system** that
 
 ---
 
+## Objective of the Project
+The core objective is to centralize HR support into a 24/7 intelligent system that handles onboarding and leave queries through a genuine Model Context Protocol (MCP) implementation.  By removing the need for pre-loaded documents or complex RAG frameworks, the project aims to:
+  - Automate Repetitive Tasks: Free HR teams from answering basic policy and balance questions.
+  - Ensure Real-Time Accuracy: Force the LLM to fetch live data for every query via a data bridge, ensuring users never receive outdated information.
+  - Personalize the Onboarding Experience: Provide step-by-step guidance tailored to the employee's specific background. 
+---
+
 ## Features
 
 * **Policy Q&A:** Instant answers regarding leave types, rules, application processes, and probation limits.
