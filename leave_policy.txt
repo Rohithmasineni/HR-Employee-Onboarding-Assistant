@@ -1,0 +1,145 @@
+LEAVE POLICY — COMPREHENSIVE HR GUIDE
+=======================================
+Company: TechCorp Solutions Pvt. Ltd.
+Effective From: January 1, 2024
+Last Updated: April 2025
+Document Owner: HR Department
+
+SECTION 1: LEAVE TYPES & ENTITLEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.1 Casual Leave (CL)
+----------------------
+- Entitlement     : 12 days per calendar year
+- Purpose         : Personal errands, family events, short personal work
+- Max consecutive : 3 days at a time (beyond that, use Earned Leave)
+- Advance notice  : Minimum 2 working days in advance
+- Can be taken    : Half-day basis allowed (0.5 day)
+- Carry forward   : NOT allowed. Lapses on December 31st each year
+- During probation: Included in the 5-day probation limit
+
+1.2 Sick Leave (SL)
+--------------------
+- Entitlement     : 10 days per calendar year
+- Purpose         : Personal illness, medical appointments, health recovery
+- Medical proof   : Required if availed for more than 2 consecutive days
+                    (Submit medical certificate within 3 days of rejoining)
+- Advance notice  : Not required — can be applied on the same day
+- Can be taken    : Half-day basis allowed
+- Carry forward   : NOT allowed. Lapses on December 31st each year
+- During probation: Included in the 5-day probation limit
+- Note            : Sick leave cannot be combined with casual leave for extended absences
+
+1.3 Earned Leave (EL) / Privilege Leave (PL)
+---------------------------------------------
+- Entitlement     : 15 days per calendar year
+- Purpose         : Planned vacations, family trips, extended personal time
+- Advance notice  : Minimum 7 working days in advance
+- Min duration    : At least 2 consecutive working days
+- Can be taken    : NOT on half-day basis
+- Carry forward   : Up to 30 days can be carried forward to next year (with HR approval)
+- Encashment      : Unused EL beyond carry-forward limit can be encashed at year-end
+- During probation: NOT available during probation period
+- Recommended for : Long leaves of 5+ days
+
+1.4 Maternity Leave (ML)
+--------------------------
+- Entitlement     : 26 weeks (as per Maternity Benefit Act, 1961)
+- Eligibility     : Female employees who have worked for at least 80 days in the last 12 months
+- Paid/Unpaid     : Fully paid
+- Documentation   : Medical certificate from a registered gynecologist required
+- Apply at least  : 8 weeks before expected delivery date
+- Miscarriage     : 6 weeks of paid leave applicable
+- Adoption        : 12 weeks for mothers adopting a child below 3 months of age
+- Contact         : hr@company.com for maternity leave queries
+
+1.5 Paternity Leave (PL)
+--------------------------
+- Entitlement     : 5 days
+- Eligibility     : Male employees on birth of a child
+- Must be taken   : Within 15 days of the child's birth
+- Documentation   : Birth certificate of the child (submit within 30 days)
+
+1.6 Bereavement Leave
+----------------------
+- Entitlement     : 3 days for immediate family (spouse, children, parents, siblings)
+                    1 day for extended family (grandparents, in-laws)
+- Paid/Unpaid     : Fully paid
+- Documentation   : Death certificate (submit within 1 week of rejoining)
+- Additional leave: If travel beyond 300 km is required, 2 extra days may be granted by HR
+
+1.7 Marriage Leave
+-------------------
+- Entitlement     : 3 days (one-time, for own marriage)
+- Notice required : Minimum 2 weeks in advance
+- Documentation   : Marriage invitation or certificate
+
+1.8 Compensatory Off (Comp Off)
+--------------------------------
+- Applicable when : Employee works on a declared holiday or weekend due to business need
+- Must be approved: Manager approval required before working on holiday
+- Validity        : Comp off must be availed within 60 days of the working holiday
+- Process         : Submit comp-off request through HR portal after manager approves
+
+1.9 Loss of Pay (LOP)
+----------------------
+- When applicable : When all paid leave balances are exhausted and absence is unapproved
+- Impact          : Deducted directly from monthly salary
+- Unauthorized LOP: More than 3 consecutive LOP days without notice may lead to disciplinary action
+
+SECTION 2: GENERAL RULES & GUIDELINES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1 Basic Rules
+----------------
+1. Leave request must be applied at least 2 days in advance (except Sick Leave).
+2. Sick Leave can be applied on the same day via HR portal or by informing the manager.
+3. Leaves cannot be carried forward to the next calendar year (except Earned Leave up to 30 days).
+4. Leave during probation period is limited to 5 days total (CL + SL combined).
+5. Unapproved absence will be treated as Loss of Pay (LOP).
+6. Leaves cannot be sandwiched around public holidays to extend the break without approval.
+7. Employees must handover pending work to a colleague before going on leave.
+8. Leaves during notice period are generally not approved unless critical.
+
+2.2 Public Holidays
+--------------------
+- The company observes approximately 10 national and regional public holidays per year.
+- The holiday list is published in January each year on the HR portal.
+- If an employee is required to work on a public holiday, they are eligible for Comp Off.
+
+2.3 Leave During Notice Period
+--------------------------------
+- Earned Leave applications during notice period will not be approved in most cases.
+- Casual or Sick Leave may be considered on a case-by-case basis by HR.
+- Unused leave balances will NOT be encashed automatically upon resignation — only EL can be encashed as per policy.
+
+SECTION 3: LEAVE APPLICATION PROCESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Step 1: Log in to the HR portal (portal.techcorp.com)
+Step 2: Navigate to "My Leaves" → "Apply Leave"
+Step 3: Select leave type, start date, end date, and reason
+Step 4: Submit — your Reporting Manager receives an email approval request
+Step 5: You will be notified via email (approved/rejected within 1 working day)
+Step 6: For Sick Leave, upload medical certificate if leave exceeded 2 days
+
+EMERGENCY LEAVE:
+- Inform your manager via phone/WhatsApp immediately
+- Apply formally on the HR portal the same day or next working day
+
+SECTION 4: LEAVE BALANCE & TRACKING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- Leave balances reset on January 1st every year
+- Employees can check their real-time balance on the HR portal under "My Leaves"
+- Leave history (approved, rejected, pending) is visible in the portal
+- Monthly payslips reflect leaves taken and any LOP deductions
+- At year-end (December), HR sends a leave balance summary to all employees
+
+SECTION 5: CONTACT & ESCALATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For leave-related queries    : hr@company.com
+HR portal support            : itsupport@company.com
+Escalation (if leave denied) : hr.head@company.com
+HR Helpdesk (working hours)  : +91-40-12345678 (Mon–Fri, 9 AM – 6 PM)

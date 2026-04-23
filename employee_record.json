@@ -1,0 +1,64 @@
+{
+  "name": "Rohith Kumar",
+  "employee_id": "EMP123",
+  "department": "Data Science",
+  "designation": "Data Scientist",
+  "date_of_joining": "2024-01-15",
+  "reporting_manager": "Priya Sharma",
+  "email": "rohith.kumar@company.com",
+  "leave_balance": {
+    "casual_leave": 8,
+    "sick_leave": 5,
+    "earned_leave": 10,
+    "_note": "YEARLY remaining balance. Resets each Jan 1. Not a monthly figure."
+  },
+  "yearly_entitlement": {
+    "casual_leave": 12,
+    "sick_leave": 10,
+    "earned_leave": 15
+  },
+  "monthly_usage": {
+    "2025-04": {
+      "casual_leave": 0,
+      "sick_leave": 0,
+      "earned_leave": 0
+    },
+    "2025-03": {
+      "casual_leave": 4,
+      "sick_leave": 0,
+      "earned_leave": 0
+    },
+    "2025-06": {
+      "casual_leave": 0,
+      "sick_leave": 5,
+      "earned_leave": 0
+    }
+  },
+  "leave_history": [
+    {
+      "type": "casual_leave",
+      "days": 4,
+      "from": "2025-03-10",
+      "to": "2025-03-13",
+      "reason": "Personal work",
+      "status": "approved"
+    },
+    {
+      "type": "sick_leave",
+      "days": 5,
+      "from": "2025-06-01",
+      "to": "2025-06-05",
+      "reason": "Fever and rest",
+      "status": "approved"
+    }
+  ],
+  "onboarding_status": {
+    "id_card_collected": true,
+    "system_allocated": true,
+    "email_setup": true,
+    "hr_orientation": true,
+    "documents_submitted": true,
+    "manager_meeting": false,
+    "project_onboarding": false
+  }
+}

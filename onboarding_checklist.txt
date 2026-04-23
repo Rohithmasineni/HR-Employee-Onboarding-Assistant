@@ -1,0 +1,196 @@
+EMPLOYEE ONBOARDING CHECKLIST — COMPLETE GUIDE
+================================================
+Company: TechCorp Solutions Pvt. Ltd.
+Document Owner: HR Department
+Last Updated: April 2025
+
+This checklist applies to ALL new employees. However, certain steps are specific to
+FRESHERS (no prior work experience) and EXPERIENCED HIRES (joining from another company).
+Each step is clearly tagged: [ALL], [FRESHER ONLY], or [EXPERIENCED ONLY].
+
+DAY 1 — JOINING DAY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ADMINISTRATIVE SETUP [ALL]
+---------------------------
+[ ] Report to the Security/Admin desk and collect your Photo ID Card
+[ ] Get your system (laptop/desktop) allocated by the IT team
+[ ] Set up your official company email account (IT will provide credentials)
+[ ] Sign and submit the Offer Letter Acceptance form to HR
+[ ] Complete and submit the Emergency Contact Information form
+[ ] Receive your employee ID card and access badge
+
+DOCUMENT SUBMISSION — DAY 1 [ALL]
+-----------------------------------
+Submit the following to HR on Day 1. Documents vary based on your experience level.
+
+Documents required from ALL employees (Fresher + Experienced):
+  ✅ 10th and 12th Mark Sheets (originals for verification, photocopies retained)
+  ✅ Graduation/Post-Graduation degree certificate or provisional certificate
+  ✅ All semester mark sheets (UG/PG)
+  ✅ PAN Card photocopy (mandatory for payroll setup)
+  ✅ Aadhaar Card photocopy (for identity verification)
+  ✅ Passport-size photographs (4 copies)
+  ✅ Bank account details — cancelled cheque or passbook first page (for salary credit)
+  ✅ Signed Employment Agreement / Bond (if applicable)
+  ✅ Medical fitness certificate (if required by company policy)
+
+Additional documents for EXPERIENCED HIRES only [EXPERIENCED ONLY]:
+  ✅ Relieving Letter from your previous employer
+       — This is MANDATORY for experienced hires to confirm clean exit from last company
+       — Must be on company letterhead with HR/manager signature
+       — If not available on Day 1, submit within 30 days (joining may be conditional)
+  ✅ Experience Letter from previous employer(s)
+  ✅ Last 3 months' salary slips from previous company
+  ✅ Form 16 or Income Tax documents from previous employer (for tax calculation)
+  ✅ Background verification consent form (BGV is conducted for all experienced hires)
+
+NOTE FOR FRESHERS [FRESHER ONLY]:
+  ℹ️ If you are joining as a fresher (no prior work experience), you do NOT need:
+     - Relieving Letter (not applicable — you have no previous employer)
+     - Experience Letter
+     - Previous salary slips or Form 16
+  ✅ Freshers only need: Mark sheets, degree certificate, PAN, Aadhaar, bank details,
+     passport photos, and the signed employment agreement.
+  ℹ️ If you have done internships, an internship completion certificate is optional but appreciated.
+
+WEEK 1 — ORIENTATION WEEK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HR & CULTURE ORIENTATION [ALL]
+--------------------------------
+[ ] Attend the HR Orientation session (2–3 hours on Day 1 or Day 2)
+      Topics covered:
+      - Company history, mission, values, and culture
+      - Organizational structure and departments
+      - HR policies: leave, attendance, work timings, dress code
+      - Benefits: health insurance, PF, gratuity, reimbursements
+      - Code of conduct, POSH policy, and anti-harassment guidelines
+      - Grievance redressal process
+
+IT SETUP [ALL]
+---------------
+[ ] Set up VPN access (required for remote/hybrid work)
+[ ] Install and configure internal tools:
+      - Slack (team communication)
+      - Jira (project and task tracking)
+      - Confluence (documentation and knowledge base)
+      - Microsoft 365 / Google Workspace (email, calendar, docs)
+[ ] Set up multi-factor authentication (MFA) on your company account
+[ ] Get access to relevant GitHub/GitLab repositories (coordinate with your team lead)
+[ ] Configure your development environment if you are in a technical role
+
+COMPLIANCE TRAINING [ALL]
+---------------------------
+[ ] Complete mandatory online compliance modules (available on HR portal):
+      - Information Security & Data Privacy
+      - POSH (Prevention of Sexual Harassment) awareness
+      - Code of Conduct
+      - Anti-Bribery and Corruption Policy
+      (All modules must be completed within the first 2 weeks)
+
+PAYROLL & BENEFITS ENROLLMENT [ALL]
+-------------------------------------
+[ ] Submit bank account details for salary processing (if not done on Day 1)
+[ ] Enroll in company health insurance (self + dependents) — submit within 7 days of joining
+[ ] Confirm PF (Provident Fund) nomination form submission
+[ ] Review and confirm CTC breakup with HR (understand your salary structure)
+[ ] Register on the attendance management system (biometric or app-based)
+
+FRESHER-SPECIFIC ORIENTATION SESSIONS [FRESHER ONLY]
+------------------------------------------------------
+[ ] Attend the Fresher Welcome Program (if applicable) — separate from general HR orientation
+[ ] Introduction to professional workplace etiquette session
+[ ] Mentor assignment: You will be assigned a buddy/mentor from your team for the first 90 days
+
+WEEK 2 — ROLE ONBOARDING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MANAGER & TEAM INTRODUCTIONS [ALL]
+------------------------------------
+[ ] Schedule and attend a formal 1:1 meeting with your Reporting Manager
+      Topics to discuss in this meeting:
+      - Your role, responsibilities, and KPIs
+      - Team structure and key stakeholders
+      - Current projects you will be contributing to
+      - Tools, processes, and ways of working
+      - Your 30-60-90 day plan
+[ ] Get introduced to your immediate team members
+[ ] Meet cross-functional stakeholders if relevant to your role
+[ ] Understand the team's sprint/project cycle and attend stand-ups
+
+PROJECT ONBOARDING [ALL]
+--------------------------
+[ ] Review product/project documentation (on Confluence or shared drive)
+[ ] Understand the codebase architecture (for technical roles)
+[ ] Shadow a senior team member for at least 2–3 days before taking independent tasks
+[ ] Complete your first assigned task (typically a small, well-defined starter task)
+
+FOR EXPERIENCED HIRES ONLY [EXPERIENCED ONLY]:
+[ ] Background Verification (BGV) process will begin in Week 2
+      - HR will share a BGV form — fill it accurately
+      - Previous employer details, education, address proof required
+      - BGV is typically completed in 2–3 weeks
+      - Any discrepancy found in BGV can lead to offer revocation
+
+BY END OF MONTH 1 — 30-DAY MILESTONES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[ ] Complete probation review form (submitted to HR and your manager)
+[ ] Set and document 30-60-90 day goals with your manager
+[ ] Ensure all IT access requests are resolved (no pending access blockers)
+[ ] Confirm all compliance training modules are completed on the HR portal
+[ ] Ensure health insurance enrollment is confirmed (HR will send confirmation)
+[ ] Verify your first payslip on the HR portal for correctness
+[ ] Update your profile on the internal employee directory
+
+PROBATION PERIOD INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- Duration            : 6 months from Date of Joining (standard)
+- Leave during probation: Maximum 5 days (CL + SL combined). EL not applicable.
+- Performance review  : Formal review at end of Month 3 and Month 6
+- Confirmation        : Upon successful completion, HR issues a confirmation letter
+- Extension           : Probation may be extended by up to 3 months based on performance
+- Termination         : During probation, notice period is 2 weeks (not 1 month)
+
+FREQUENTLY ASKED ONBOARDING QUESTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q: I am a fresher. Do I need to submit a Relieving Letter?
+A: NO. Relieving Letters are only required for experienced hires who are joining from
+   a previous company. Freshers with no prior employment do not need to submit one.
+
+Q: I did an internship. Do I need an internship certificate?
+A: It is not mandatory, but you are encouraged to submit an internship completion
+   certificate if you have one. It helps in building your employee profile.
+
+Q: What if I don't have my original degree certificate yet (awaiting convocation)?
+A: You can submit a Provisional Certificate issued by your university. The original
+   degree certificate must be submitted within 6 months of joining.
+
+Q: When will I receive my first salary?
+A: Salary is credited on the last working day of the month. If you join mid-month,
+   the first month's salary will be pro-rated based on your date of joining.
+
+Q: How do I apply for health insurance for my family?
+A: Download the insurance enrollment form from the HR portal under "Benefits".
+   Submit it within 7 days of joining to ensure coverage from Month 1.
+
+Q: What is the notice period for a new joiner?
+A: During probation (first 6 months): 2 weeks notice period.
+   After confirmation: 1 month notice period (as per your offer letter).
+
+Q: My previous company's relieving letter is delayed. What do I do?
+A: Inform HR immediately. You may be allowed to join with a conditional offer,
+   but the relieving letter must be submitted within 30–60 days as specified by HR.
+
+CONTACT INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HR Onboarding Team    : onboarding@company.com
+IT Support            : itsupport@company.com
+Payroll Queries       : payroll@company.com
+Health Insurance      : benefits@company.com
+HR Helpdesk           : +91-40-12345678 (Mon–Fri, 9 AM – 6 PM)
+HR Portal             : portal.techcorp.com
