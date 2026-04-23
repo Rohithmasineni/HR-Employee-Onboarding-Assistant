@@ -35,13 +35,13 @@ The system operates on a clean three-layer architecture: **Streamlit (Frontend)*
 ### End-to-End Flow:
 1. **User Input:** Employee asks a question (e.g., "What is the leave policy?").
 2. **LLM Decision:** Groq (Qwen3-32B) receives the query + tool definitions. It realizes it lacks the data and generates a `tool_use` block.
-3. **MCP Interception:** The app routes this request to the `mcp_handler.py`[cite: 51].
-4. [cite_start]**Data Retrieval:** The MCP server reads the relevant file from the `/data` directory[cite: 51].
-5. [cite_start]**Final Generation:** The model receives the file content, processes the natural language, and returns the final answer[cite: 51].
+3. **MCP Interception:** The app routes this request to the `mcp_handler.py`.
+4. **Data Retrieval:** The MCP server reads the relevant file from the `/data` directory.
+5. **Final Generation:** The model receives the file content, processes the natural language, and returns the final answer.
 
 ---
 
-## 🔌 MCP Tools
+## MCP Tools
 
 | Tool | Trigger | Action |
 | :--- | :--- | :--- |
@@ -53,33 +53,25 @@ The system operates on a clean three-layer architecture: **Streamlit (Frontend)*
 
 ## 📁 Data Files
 
-[cite_start]The `/data` folder serves as the single source of truth for the assistant[cite: 62]:
+The `/data` folder serves as the single source of truth for the assistant[cite: 62]:
 
-* [cite_start]**`leave_policy.txt`**: A comprehensive guide containing leave types (Casual, Sick, Earned), carry-forward rules, and the standard application process[cite: 44].
+* **`leave_policy.txt`**: A comprehensive guide containing leave types (Casual, Sick, Earned), carry-forward rules, and the standard application process[cite: 44].
 * **`onboarding_checklist.txt`**: A structured task list categorized by timeline (Day 1/Week 1) and experience level (Fresher/Experienced)[cite: 44].
-* **`employee_record.json`**: A dynamic mini-database storing personal profiles, manager info, live leave balances, and historical usage[cite: 44, 61].
+* **`employee_record.json`**: A dynamic mini-database storing personal profiles, manager info, live leave balances, and historical usage.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-* **Frontend:** Streamlit [cite: 73]
-* [cite_start]**LLM:** Qwen3-32B via Groq API [cite: 76]
-* [cite_start]**MCP Server:** Python-based Filesystem MCP [cite: 76]
-* **Language:** Python 3.9+ [cite: 76]
+* **Frontend:** Streamlit 
+* **LLM:** Qwen3-32B via Groq API 
+* **MCP Server:** Python-based Filesystem MCP 
+* **Language:** Python 3.9+ 
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 Experience the assistant live on Hugging Face Spaces:
 **[HR & Employee Onboarding Assistant](https://huggingface.co/spaces/rohithmasineni/HR_and_Employee_Onboarding_Assistant)**
 
----
-
-## 🛠️ Setup & Installation
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/your-username/hr-onboarding-assistant.git](https://github.com/your-username/hr-onboarding-assistant.git)
-   cd hr-onboarding-assistant
