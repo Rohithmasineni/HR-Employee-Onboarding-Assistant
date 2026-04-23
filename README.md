@@ -44,9 +44,9 @@ The system operates on a clean three-layer architecture: **Streamlit (Frontend)*
 
 | Tool | Trigger | Action |
 | :--- | :--- | :--- |
-| `read_leave_policy` | Questions about rules, types, or application | [cite_start]Reads `leave_policy.txt` [cite: 56] |
-| `read_onboarding_checklist` | Questions about Day 1, IT setup, or documents | [cite_start]Reads `onboarding_checklist.txt` [cite: 56] |
-| `read_employee_record` | Leave balance, manager, or profile queries | [cite_start]Reads `employee_record.json` [cite: 56] |
+| `read_leave_policy` | Questions about rules, types, or application | Reads `leave_policy.txt` |
+| `read_onboarding_checklist` | Questions about Day 1, IT setup, or documents | Reads `onboarding_checklist.txt` |
+| `read_employee_record` | Leave balance, manager, or profile queries | Reads `employee_record.json` |
 
 ---
 
@@ -54,8 +54,8 @@ The system operates on a clean three-layer architecture: **Streamlit (Frontend)*
 
 The `/data` folder serves as the single source of truth for the assistant[cite: 62]:
 
-* **`leave_policy.txt`**: A comprehensive guide containing leave types (Casual, Sick, Earned), carry-forward rules, and the standard application process[cite: 44].
-* **`onboarding_checklist.txt`**: A structured task list categorized by timeline (Day 1/Week 1) and experience level (Fresher/Experienced)[cite: 44].
+* **`leave_policy.txt`**: A comprehensive guide containing leave types (Casual, Sick, Earned), carry-forward rules, and the standard application process.
+* **`onboarding_checklist.txt`**: A structured task list categorized by timeline (Day 1/Week 1) and experience level (Fresher/Experienced).
 * **`employee_record.json`**: A dynamic mini-database storing personal profiles, manager info, live leave balances, and historical usage.
 
 ---
